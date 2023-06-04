@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Het's Bushy Leaves",
+		"description": "Het's Bushy Leaves Resource Pack",
+		"uuid": "75734f36-f553-34dc-7488-da59f18b797d",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Het"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.1.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Het's Bushy Leaves",
+			"type": "resources",
+			"uuid": "27711f62-b56e-9ade-e325-6ba97ae23809",
+			"version": [1, 0, 0]
+		}
+	]
+}
